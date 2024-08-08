@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Library of voice-triggered code snippets for cmdstanpy using Voice-In Plus (coming soon)
+# Library of voice-triggered code snippets for cmdstanpy using Voice-In Plus
 
 The module [cmdstanpy](https://mc-stan.org/cmdstanpy/) is a Python wrapper for cmdstan.
 Cmdstanpy is more current than PyStan.
